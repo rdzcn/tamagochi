@@ -41,5 +41,17 @@ body {
 .buttons {
   display: flex;
   position: absolute;
-  bottom: 234px;
+  bottom: 36px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  bottom: 130px;
+  width: 374px;
+  background: black;
+  padding: 12px;
+  border-radius: 50px;
 }
